@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AI 쇼핑 어시스턴트 - 원하는 제품을 텍스트로 검색하고 최저가를 찾아보세요">
+    <title>Shopping AI Agent - 스마트 쇼핑 어시스턴트</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <span class="logo-icon">🛒</span>
+                <h1>Shopping AI</h1>
+            </div>
+            <div class="header-badge">
+                <span class="badge">Powered by AI</span>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Chat Container -->
+            <div class="chat-container" id="chatContainer">
+                <!-- Welcome Message -->
+                <div class="message assistant-message">
+                    <div class="message-avatar">🤖</div>
+                    <div class="message-content">
+                        <p>안녕하세요! 저는 <strong>Shopping AI</strong>입니다. 🛍️</p>
+                        <p>원하시는 제품을 자연어로 말씀해주세요. 최적의 제품을 찾아 추천해드릴게요!</p>
+                        <p class="hint">예시: "가성비 좋은 무선 이어폰 추천해줘", "20만원 이하 게이밍 마우스"</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product Results Area -->
+            <div class="products-container" id="productsContainer">
+                <div class="products-header">
+                    <h2>🔍 검색 결과</h2>
+                    <span class="product-count" id="productCount">0개 제품</span>
+                </div>
+                <div class="products-grid" id="productsGrid">
+                    <!-- Products will be dynamically inserted here -->
+                </div>
+            </div>
+        </main>
+
+        <!-- Chat Input -->
+        <footer class="input-container">
+            <form id="chatForm" class="chat-form">
+                <div class="input-wrapper">
+                    <input 
+                        type="text" 
+                        id="userInput" 
+                        placeholder="원하는 제품을 입력하세요..." 
+                        autocomplete="off"
+                        required
+                    >
+                    <button type="submit" id="sendButton" class="send-btn">
+                        <span class="btn-text">검색</span>
+                        <span class="btn-icon">→</span>
+                    </button>
+                </div>
+            </form>
+            <p class="input-hint">Enter를 눌러 검색하세요</p>
+        </footer>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="loading-spinner">
+            <div class="spinner"></div>
+            <p>AI가 최적의 제품을 찾고 있어요...</p>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

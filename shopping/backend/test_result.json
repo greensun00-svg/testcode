@@ -1,0 +1,235 @@
+﻿{
+    "success":  true,
+    "message":  "íì¬ ê²ì ê²°ê³¼ìì ìêµ¬íì  ì¡°ê±´ì ëª¨ë ì¶©ì¡±íë ëª¨ì\u0085 ë°ì¤í¬ë¥¼ ì°¾ì ì ìììµëë¤. ìíë ëì´ì í¬ê¸°ì 3ë¨ê³ ëª¨ì\u0085 ë°ì¤í¬ë¥¼ ì°¾ê¸° ìí´ ì¢ ë êµ¬ì²´ì ì¸ ê²ìì´ íìí  ê² ê°ìµëë¤. í¹í, ëì´ 70cm ì´íë¡ ë´ë ¤ê° ì ìì¼ë©° ê°ë¡ 140cmì ëì´ 80cmì 3ë¨ê³ ì íì ìí´ ì ë¬¸ì ì¸ ì¤í¼ì¤ ê°êµ¬ ë§¤ì¥ ë°©ë¬¸ì ì¶ì²ëë¦½ëë¤. ëí, ì¨ë¼ì¸ ê°êµ¬ ì ë¬¸ íë«í¼ìì ìì¸í íí° ê¸°ë¥ì ì¬ì©íì¬ ê²ìí´ ë³´ìê¸°ë¥¼ ê¶ì¥í©ëë¤.",
+    "products":  [
+                     {
+                         "title":  "ì´ëì í\u0085ì´ë¸ ì¤í ë© ëì´ì¡°ì ì±\u0085ì ë¦¬íí\u0085 ì¬ë¬´ì¤ ìì\u0085ë YD22 ì¹íê²½ MDF ë¬´ë¨ê³ 3ë¨ê³",
+                         "link":  "https://smartstore.naver.com/main/products/12930160341",
+                         "image":  "https://shopping-phinf.pstatic.net/main_9047467/90474671333.jpg",
+                         "lprice":  80900,
+                         "hprice":  0,
+                         "mall_name":  "ë­í¤êµ°ë°¤",
+                         "product_id":  "90474671333",
+                         "brand":  "",
+                         "maker":  "",
+                         "category1":  "ê°êµ¬/ì¸í\u0085ë¦¬ì´",
+                         "category2":  "ìì¬/ì¬ë¬´ì©ê°êµ¬",
+                         "category3":  "ì±\u0085ì",
+                         "category4":  "ì¤í ë©ì±\u0085ì",
+                         "value_score":  5,
+                         "value_reason":  "3ë¨ê³ ëì´ì¡°ì  ê°ë¥íë ìíë í¬ê¸°ë¥¼ ì¶©ì¡±íì§ ììì ê°ì±ë¹ë íê· ì .",
+                         "relevance_score":  9,
+                         "total_score":  6.46,
+                         "rank":  1,
+                         "detail_analysis":  {
+                                                 "match_score":  50,
+                                                 "is_match":  false,
+                                                 "summary":  "ë¶ì ì¤í¨: ",
+                                                 "specs":  {
+
+                                                           }
+                                             },
+                         "is_detail_match":  false
+                     },
+                     {
+                         "title":  "ì´ëì í\u0085ì´ë¸ ì¤í ë© ë\u0085¸í¸ë¶ ì±\u0085ì íì 3ë¨ê³ ì¹¨ë ì ëì´ì¡°ì ì±\u0085ì",
+                         "link":  "https://smartstore.naver.com/main/products/12915271336",
+                         "image":  "https://shopping-phinf.pstatic.net/main_9045978/90459782328.jpg",
+                         "lprice":  79600,
+                         "hprice":  0,
+                         "mall_name":  "HILLS MARKET",
+                         "product_id":  "90459782328",
+                         "brand":  "",
+                         "maker":  "",
+                         "category1":  "ê°êµ¬/ì¸í\u0085ë¦¬ì´",
+                         "category2":  "ìì¬/ì¬ë¬´ì©ê°êµ¬",
+                         "category3":  "ì±\u0085ì",
+                         "category4":  "ì¤í ë©ì±\u0085ì",
+                         "value_score":  4,
+                         "value_reason":  "ëì´ì¡°ì  ê¸°ë¥ì ìì§ë§, í¬ê¸° ë° ëìì¸ ë©´ìì ì ë¬¸ ìì\u0085ëìë ê±°ë¦¬ê° ìì´ ê°ì±ë¹ê° ë®ì.",
+                         "relevance_score":  9,
+                         "total_score":  6.27,
+                         "rank":  2,
+                         "detail_analysis":  {
+                                                 "match_score":  50,
+                                                 "is_match":  false,
+                                                 "summary":  "ë¶ì ì¤í¨: ",
+                                                 "specs":  {
+
+                                                           }
+                                             },
+                         "is_detail_match":  false
+                     },
+                     {
+                         "title":  "ì ëì¤í¬ë¦¬ìì´í°ë¸ ì ë¡ë ì¤í ë¤ë EL ì ë ëª¨ì\u0085ë°ì¤í¬ 1400x750",
+                         "link":  "https://search.shopping.naver.com/catalog/47098156618",
+                         "image":  "https://shopping-phinf.pstatic.net/main_4709815/47098156618.20240416152525.jpg",
+                         "lprice":  229000,
+                         "hprice":  0,
+                         "mall_name":  "ë¤ì´ë²",
+                         "product_id":  "47098156618",
+                         "brand":  "ì ëì¤í¬ë¦¬ìì´í°ë¸",
+                         "maker":  "ì ëì¤í¬ë¦¬ìì´í°ë¸",
+                         "category1":  "ê°êµ¬/ì¸í\u0085ë¦¬ì´",
+                         "category2":  "ìì¬/ì¬ë¬´ì©ê°êµ¬",
+                         "category3":  "ì±\u0085ì",
+                         "category4":  "ì¤í ë©ì±\u0085ì",
+                         "value_score":  7,
+                         "value_reason":  "ëì´ê° 70cm ì´íë¡ ë´ë ¤ê° ì ìì´ ê¸°ë¥ì±ê³¼ ë¶í¼ë¥¼ ë§ì¡±íì§ë§ ê°ê²©ì´ ìëì ì¼ë¡ ë¹ì.",
+                         "relevance_score":  8,
+                         "total_score":  5.31,
+                         "rank":  3,
+                         "detail_analysis":  {
+                                                 "match_score":  50,
+                                                 "is_match":  false,
+                                                 "summary":  "ë¶ì ì¤í¨: ",
+                                                 "specs":  {
+
+                                                           }
+                                             },
+                         "is_detail_match":  false
+                     },
+                     {
+                         "title":  "ë¡±ì½ ëª¨ì\u0085ë°ì¤í¬ ëì¼ëª¨í° ëì´ì¡°ì  ì±\u0085ì ì¤í ë© ì ëì±\u0085ì 1200",
+                         "link":  "https://smartstore.naver.com/main/products/4803519339",
+                         "image":  "https://shopping-phinf.pstatic.net/main_8234804/82348042004.23.jpg",
+                         "lprice":  241000,
+                         "hprice":  0,
+                         "mall_name":  "ë¡±ì½ ì¤ë§í¸íì¤í¼ì¤",
+                         "product_id":  "82348042004",
+                         "brand":  "ë¡±ì½",
+                         "maker":  "",
+                         "category1":  "ê°êµ¬/ì¸í\u0085ë¦¬ì´",
+                         "category2":  "ìì¬/ì¬ë¬´ì©ê°êµ¬",
+                         "category3":  "ì±\u0085ì",
+                         "category4":  "ì¤í ë©ì±\u0085ì",
+                         "value_score":  6,
+                         "value_reason":  "ê°ë¡ê° ë¶ì¡±íì§ë§ ìì ì ì¸ ëì¼ ëª¨í°ë¥¼ ê°ì¶ê³  ìì´ ê¸°ë¥ ë©´ììë ì¢ì. ê°ê²©ì ë¤ì ë¹ì.",
+                         "relevance_score":  7,
+                         "total_score":  4.72,
+                         "rank":  4,
+                         "detail_analysis":  {
+                                                 "match_score":  50,
+                                                 "is_match":  false,
+                                                 "summary":  "ë¶ì ì¤í¨: ",
+                                                 "specs":  {
+
+                                                           }
+                                             },
+                         "is_detail_match":  false
+                     },
+                     {
+                         "title":  "ìì°ì¤ FJ03 ìëª© ê°í¸ì¡°ë¦½ ì ë ëª¨ì\u0085ë°ì¤í¬ ë²í´ì ì¤í ë© ëë®ì´ì¡°ì  ì±\u0085ì 1000",
+                         "link":  "https://smartstore.naver.com/main/products/10839113201",
+                         "image":  "https://shopping-phinf.pstatic.net/main_8838361/88383619214.2.jpg",
+                         "lprice":  134200,
+                         "hprice":  0,
+                         "mall_name":  "ìì°ì¤ ê³µìì¤í ì´",
+                         "product_id":  "88383619214",
+                         "brand":  "ìì°ì¤",
+                         "maker":  "",
+                         "category1":  "ê°êµ¬/ì¸í\u0085ë¦¬ì´",
+                         "category2":  "ìì¬/ì¬ë¬´ì©ê°êµ¬",
+                         "category3":  "ì±\u0085ì",
+                         "category4":  "ì¤í ë©ì±\u0085ì",
+                         "value_score":  6,
+                         "value_reason":  "ëì´ê° ì¡°ì  ê°ë¥íë ìíë ê°ë¡ í¬ê¸°ë¥¼ ì¶©ì¡±íì§ ëª»íì¬ ê°ì±ë¹ê° ë¤ì ë¨ì´ì§.",
+                         "relevance_score":  3,
+                         "total_score":  4.53,
+                         "rank":  5,
+                         "detail_analysis":  {
+                                                 "match_score":  50,
+                                                 "is_match":  false,
+                                                 "summary":  "ë¶ì ì¤í¨: ",
+                                                 "specs":  {
+
+                                                           }
+                                             },
+                         "is_detail_match":  false
+                     },
+                     {
+                         "title":  "ìë ëª¨ì\u0085ë°ì¤í¬ ëì´ì¡°ì  ì±\u0085ì ì¤í ë ì¤í ë© ëë®ì´ì¡°ì  ë°ì¤í¬ 800x600",
+                         "link":  "https://smartstore.naver.com/main/products/10572166765",
+                         "image":  "https://shopping-phinf.pstatic.net/main_8811667/88116672290.5.jpg",
+                         "lprice":  58900,
+                         "hprice":  0,
+                         "mall_name":  "ëëì°½ìì",
+                         "product_id":  "88116672290",
+                         "brand":  "",
+                         "maker":  "",
+                         "category1":  "ê°êµ¬/ì¸í\u0085ë¦¬ì´",
+                         "category2":  "ìì¬/ì¬ë¬´ì©ê°êµ¬",
+                         "category3":  "ì±\u0085ì",
+                         "category4":  "ì¤í ë©ì±\u0085ì",
+                         "value_score":  3,
+                         "value_reason":  "ëì´ì¡°ì  ê¸°ë¥ì´ ì íì ì´ë©° í¬ê¸°ê° ëë¬´ ìì ê°ì±ë¹ê° ë®ì.",
+                         "relevance_score":  1,
+                         "total_score":  3.57,
+                         "rank":  6,
+                         "detail_analysis":  null
+                     },
+                     {
+                         "title":  "ì ì´í¼ ëì´ì¡°ì  ì¤í ë© ì±\u0085ì 60x60",
+                         "link":  "https://search.shopping.naver.com/catalog/48824762618",
+                         "image":  "https://shopping-phinf.pstatic.net/main_4882476/48824762618.20241213101824.jpg",
+                         "lprice":  36900,
+                         "hprice":  0,
+                         "mall_name":  "ë¤ì´ë²",
+                         "product_id":  "48824762618",
+                         "brand":  "",
+                         "maker":  "",
+                         "category1":  "ê°êµ¬/ì¸í\u0085ë¦¬ì´",
+                         "category2":  "ìì¬/ì¬ë¬´ì©ê°êµ¬",
+                         "category3":  "ì±\u0085ì",
+                         "category4":  "ì¤í ë©ì±\u0085ì",
+                         "value_score":  2,
+                         "value_reason":  "ìì í¬ê¸°ì ê°ê²© ëë¹ ê¸°ë¥ì´ ê²½ì ì ì´ì§ ìì ê°ì±ë¹ê° ë®ì.",
+                         "relevance_score":  1,
+                         "total_score":  3.54,
+                         "rank":  7,
+                         "detail_analysis":  null
+                     },
+                     {
+                         "title":  "ì±\u0085ì ëì´ ì¡°ì  ì¤í ë ë¯¸ë ì¡°ë ê°ë¥ ê¸°ì¸ê¸° ëª¨ëí° ëª¨ë ë¼ì´í¸ 3ë¨ê³ì¡°ì  ì§ë£ í°ì¹ì",
+                         "link":  "https://smartstore.naver.com/main/products/12397269553",
+                         "image":  "https://shopping-phinf.pstatic.net/main_8994178/89941780278.jpg",
+                         "lprice":  81400,
+                         "hprice":  0,
+                         "mall_name":  "ì í¥ì íµìì¬03",
+                         "product_id":  "89941780278",
+                         "brand":  "",
+                         "maker":  "",
+                         "category1":  "ê°êµ¬/ì¸í\u0085ë¦¬ì´",
+                         "category2":  "ìì¬/ì¬ë¬´ì©ê°êµ¬",
+                         "category3":  "ì±\u0085ì",
+                         "category4":  "ì¤í ë©ì±\u0085ì",
+                         "value_score":  3,
+                         "value_reason":  "ê¸°ë¥ì ì¼ë¡ë ì¬ë¬ëª¨ë¡ ê´ì°®ì¼ë, ì±\u0085ìì´ ìë ë³´ì¡° ì íì¼ë¡ ê°ì±ë¹ê° ì¢ì§ ìì.",
+                         "relevance_score":  1,
+                         "total_score":  3.29,
+                         "rank":  8,
+                         "detail_analysis":  null
+                     }
+                 ],
+    "intent":  {
+                   "intent":  "search",
+                   "keywords":  [
+                                    "ëª¨ì\u0085 ë°ì¤í¬"
+                                ],
+                   "preferences":  {
+                                       "min_price":  0,
+                                       "max_price":  0,
+                                       "brand":  "",
+                                       "priority":  "balance"
+                                   },
+                   "needs_detail":  true,
+                   "detail_criteria":  [
+                                           "ìµë ëì´ 70cm ì´í",
+                                           "ê°ë¡ 140cm",
+                                           "ì¸ë¡ 80cm",
+                                           "3step ì¡°ì  ê°ë¥"
+                                       ],
+                   "summary":  "ì¬ì©ìë ëì´ê° 70cm ì´íë¡ ë´ë ¤ê°ê³ , ê°ë¡ í¬ê¸°ë 140cm, ì¸ë¡ë 80cmì´ë©°, 3ë¨ê³ ì¡°ì ì´ ê°ë¥í ëª¨ì\u0085 ë°ì¤í¬ë¥¼ ì°¾ê³  ììµëë¤.",
+                   "detail_analysis_performed":  true
+               }
+}
